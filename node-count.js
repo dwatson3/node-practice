@@ -42,4 +42,3 @@ fs.readFile("countCharacters.js", function(err, data){
 // console.log(str.split("").)
 
 // console.log(contents.toString())
-
